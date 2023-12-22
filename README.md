@@ -1,3 +1,3 @@
-# React + Vite (online store)
+# Online store using React + Vite
 
 React Router, RTK, Axios, React Query
